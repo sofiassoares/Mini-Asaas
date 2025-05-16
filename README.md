@@ -1,4 +1,4 @@
-# Mini-Asaas: Sistema de Gerenciamento de Cobranças
+# 💙 Mini-Asaas: Sistema de Gerenciamento de Cobranças
 
 ## Sobre o Projeto
 O Mini-Asaas é um sistema de gerenciamento de cobranças desenvolvido como parte do programa de estágio da Asaas. Esta ferramenta permite o controle de cobranças, onde o usuário poderá desde cadastrar até fazer a atualiazão de cobranças.
@@ -9,15 +9,13 @@ O Mini-Asaas é um sistema de gerenciamento de cobranças desenvolvido como part
 - **Remoção de Cobranças**
 - **Visualização de Cobranças**
 
-## Estrutura de Dados
-Cada cobrança contém as seguintes informações:
-- Valor
-- Descrição
-- Data de vencimento
-- Pagador 
-- "Dono" da cobrança
-
 ## Tecnologias Utilizadas
 - **Backend**: Grails Framework (Groovy)
 - **Frontend**: Grails
-- **Banco de Dados**: MySQL 
+- **Banco de Dados**: MySQL
+
+## Como excutar
+---
+
+## Desenvolvedores
+---
